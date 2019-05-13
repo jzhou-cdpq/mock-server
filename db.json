@@ -1,0 +1,54 @@
+{
+  "search_period": [
+    {
+      "this_week": {
+        "code": "this_week",
+        "description_en": "This week",
+        "description_fr": "Cette semaine",
+        "is_default": true
+      }
+    },
+    {
+      "last_3_days": {
+        "code": "last_3_days",
+        "description_en": "Last 3 days",
+        "description_fr": "Derniers 3 jours"
+      }
+    },
+    {
+      "last_7_days": {
+        "code": "last_7_days",
+        "description_en": "Last 7 days",
+        "description_fr": "Derniers 7 jours"
+      }
+    },
+    {
+      "this_month": {
+        "code": "this_month",
+        "description_en": "This month",
+        "description_fr": "Ce mois-ci"
+      }
+    },
+    {
+      "last_month": {
+        "code": "last_month",
+        "description_en": "Last month",
+        "description_fr": "Mois passé"
+      }
+    },
+    {
+      "this_year": {
+        "code": "this_year",
+        "description_en": "This year",
+        "description_fr": "Cette année"
+      }
+    },
+    {
+      "forever": {
+        "code": "forever",
+        "description_en": "No filter",
+        "description_fr": "Aucun filtre"
+      }
+    }
+  ]
+}
